@@ -59,7 +59,7 @@ const info = {
     
     {
       role: "Software Development Intern",
-      company: "Company Name",
+      company: "Vijesha IT Services",
       period: "July 2024 - Jan 2025",
       location: "Remote",
       points: [

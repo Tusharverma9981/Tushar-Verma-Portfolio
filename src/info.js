@@ -67,6 +67,16 @@ const info = {
         "Fixed bugs and took part in code reviews.",
       ],
     },
+      {
+      role: "Data Analytics Trainee",
+      company: "Qbnaire Private Services",
+      period: "July 2026 - Present",
+      location: "indroe,india",
+      points: [
+        "Learning and developing skills in Data Analyrtics domain",
+        "Working on real world datasets and devloping projects ",
+      ],
+    },
   ],
 
   /* ---------- Projects ----------
@@ -74,6 +84,17 @@ const info = {
      details  = bullet points shown when the card is clicked
      github / live = optional links, use "" to hide a button */
   projects: [
+      {
+      title: "Customer Behaviour Analysis",
+     summary: "The Customer Shopping Behavior Analysis project explores customer purchasing patterns, product preferences, discount usage, subscription behavior, and revenue trends using data analytics tools.",
+      tech: ["Python", "Pandas", "MySql", "PowerBi",],
+      details: [
+        "Analyze customer purchasing behavior and spending patterns.",
+        "Compare purchasing behavior by gender, shipping type, and subscription status.",
+        "Visualize important business metrics through a Power BI dashboard.",
+      ],
+      github: "https://github.com/Tusharverma9981/customer-behaviour-analysis-project",
+    },
     {
       title: "Expense Tracker",
       summary: "Full-stack app built with React.js and Node.js.",
@@ -98,6 +119,7 @@ const info = {
       github: "https://github.com/Tusharverma9981/Hostle-App",
       live: "https://hostle-app.vercel.app/",
     },
+     
     
   ],
 
